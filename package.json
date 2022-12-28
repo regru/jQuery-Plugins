@@ -1,4 +1,15 @@
 {
-  "name": "jQuery-Plugins",
-  "version": "1.0.0"
+  "name": "@regru/jquery-plugins",
+  "version": "1.0.0",
+  "description": "Plugins I have developed for jQuery",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/regru/jQuery-Plugins.git"
+  },
+  "author": "SamWM",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/regru/jQuery-Plugins/issues"
+  },
+  "homepage": "https://github.com/regru/jQuery-Plugins#readme"
 }
